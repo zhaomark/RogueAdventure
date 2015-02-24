@@ -1,6 +1,8 @@
 
 var VOWELS = ['a', 'e', 'i', 'o', 'u'];
 
+// hi!
+
 function constructSentence(obj) {
 	var modifier = '';
 
